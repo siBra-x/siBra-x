@@ -12,7 +12,9 @@
 
 - 📫 How to reach me - **yashikaa.soni.17@gmail.com**
 
+<-- 
 - 📄 Know about my experiences - [Yashika Resume](https://drive.google.com/file/d/1e9WAg86QjGOOuxH5p5Vowe0Vx5Jsvop8/view?usp=sharing)
+-->
 
 - ⚡ Fun fact - **Coding is one of my hobby.**
 
