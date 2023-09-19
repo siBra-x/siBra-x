@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashika</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"/>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **yashikaa.soni.17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e9WAg86QjGOOuxH5p5Vowe0Vx5Jsvop8/view?usp=sharing](https://drive.google.com/file/d/1e9WAg86QjGOOuxH5p5Vowe0Vx5Jsvop8/view?usp=sharing)
+- 📄 Know about my experiences [Yashika Resume](https://drive.google.com/file/d/1e9WAg86QjGOOuxH5p5Vowe0Vx5Jsvop8/view?usp=sharing)
 
 - ⚡ Fun fact **Coding is one of my hobby.**
 
