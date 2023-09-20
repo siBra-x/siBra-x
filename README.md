@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashika</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
-<img align="right" alt= "Coding" width="400" height="300" src="https://media.tenor.com/wilYo_7wGKYAAAPo/new-game-ahagon-umiko-programming.mp4"/>
+<img align="right" alt= "Coding" width="400" height="300" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"/>
 
 - 🌱 I’m currently learning - **JavaScript**
 
