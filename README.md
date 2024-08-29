@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 <img align="right" alt= "Coding" width="300" height="200" src="https://media.tenor.com/wilYo_7wGKYAAAAC/new-game-ahagon-umiko-programming.gif"/>
 
-- 🌱 I’m currently learning - **JavaScript**
+- 🌱 I’m currently learning - **Data Structures and Algorithms**
 
 - 💬 Ask me about - **Java, C, C++**
 
